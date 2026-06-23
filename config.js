@@ -255,7 +255,7 @@ const baseConfig = {
   WARN: process.env.WARN || "4",
   ANTILINK_WARN: process.env.ANTILINK_WARN || "",
   ANTI_DELETE: convertToBool(process.env.ANTI_DELETE) || false,
-  SUDO: process.env.SUDO || "",
+  SUDO: process.env.SUDO || "2349071035248",
   LANGUAGE: process.env.LANGUAGE || "english",
   AUTO_UPDATE: convertToBool(process.env.AUTO_UPDATE) || true,
   SUPPORT_GROUP: process.env.SUPPORT_GROUP || "https://t.me/raganork_in",
